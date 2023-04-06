@@ -1,4 +1,4 @@
-# [공개SW프로젝트 - 손윤식교수님] 혐오발언 탐지 및 분류 언어모델 개발
+# [공개SW프로젝트] 혐오발언 탐지 및 분류 언어모델 개발
 ## Index
   - [Overview](#overview) 
   - [Getting Started](#getting-started)
