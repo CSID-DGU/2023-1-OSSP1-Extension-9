@@ -1,0 +1,50 @@
+keras 모델을 사요할거다.
+
+sklearn + keras 
+
+둘다 사용하는 것 같았다.
+
+train set + test set 
+
+넘파이 배열 형태로 나누어져있다. train set, test set 으로 나누어져 있어
+
+1. X, Y 별로 각각 처리
+
+X(데이터)
+Y(라벨 값)
+
+2.  kfold = KFold(n_splits=num_folds, shuffle=True)  -> fold 개수 정한다.
+
+3. for train, test in kfold.split(inputs, targets):  ## 반복문을 fold 개수만큼 계속 돌려야한다.!!
+	모델 구축 하는 부분 
+
+
+---
+
+X_data 
+Y_data
+
+kfold = KFold(n_splits=num_folds, shuffle=True)  -> fold 개수 정한다.
+
+for train, test in kfold.split(inputs, targets):
+	model = Sequential()
+	model.add(...)
+	...
+	
+	model.compile(...)
+	...
+	model.fit(   )
+
+## 교차 검증 종류
+* (stratified) K-fold cross validation
+* (stratified) shuffle split cross validation
+* leave-one-out cross validation
+* leave-p-out cross validation
+
+
+
+
+
+
+
+
