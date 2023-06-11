@@ -1,7 +1,7 @@
 from transformers import BertTokenizer, BertForSequenceClassification
 import torch
 import pandas as pd
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from sklearn.model_selection import train_test_split
 
 # Load the fine-tuned model and tokenizer
@@ -50,5 +50,11 @@ with torch.no_grad():
         predictions.append(predicted_labels)
 
 eval_accuracy = accuracy_score(eval_labels, predictions)
+eval_precision = precision_score(eval_labels, predictions, average='weighted')
+eval_recall = recall_score(eval_labels, predictions, average='weighted')
+eval_f1_score = f1_score(eval_labels, predictions, average='weighted')
 
 print(f"Evaluation Accuracy: {eval_accuracy:.4f}")
+print(f"Evaluation Precision: {eval_precision:.4f}")
+print(f"Evaluation Recall: {eval_recall:.4f}")
+print(f"Evaluation F1-score: {eval_f1_score:.4f}")
