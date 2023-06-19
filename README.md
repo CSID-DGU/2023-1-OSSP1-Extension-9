@@ -60,6 +60,9 @@ Simcse - Unsupervised
 
 3.`OpenMax`폴더에서 분류 모델에 맞는 코드를 사용해 Fit과정 진행 후 Predict를 사용해 문장 분류
 
+## [모델 성능](https://github.com/CSID-DGU/2023-1-OSSP1-Extension-9/blob/main/new_model/README.md)
+
+
 
 ## 차후 계획
 인터넷 용어에 맞는 Adversarial Sample 생성 후 Adversarial Training 적용을 통해 모델의 보안성 향상
