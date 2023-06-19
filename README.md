@@ -13,6 +13,23 @@
 |황유경|2020111403|경영학과||
 |민준영|2019113290|컴퓨터공학과||
 
+
+## 빠른 링크
+
+  - [개요](#개요)
+  - [Getting Started](#getting-started)
+  - [Model List](#model-list)
+  - [Use SimCSE with Huggingface](#use-simcse-with-huggingface)
+  - [Train SimCSE](#train-simcse)
+    - [Requirements](#requirements)
+    - [Evaluation](#evaluation)
+    - [Training](#training)
+  - [Bugs or Questions?](#bugs-or-questions)
+  - [Citation](#citation)
+  - [SimCSE Elsewhere](#simcse-elsewhere)
+
+
+
 ## 개요
 - 학습 데이터 셋 추가 및 데이터 라벨링 개선
 - 지도학습 → 자기지도학습(Contrastive Learning) 적용
