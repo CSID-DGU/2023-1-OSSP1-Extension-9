@@ -19,6 +19,9 @@
 - 모델 변경(1D CNN → BERT)
 - OSR 방법론 변경 (OpenMax → Background Method 적용)
 
+## Description
+Simcse 및 BackGround Method 적용을 통한 혐오발언 분류 모델의 성능개선
+
 ## Requirement
 PyTorch, Tensorflow, Transformers, sklearn, sentencepiece
 
