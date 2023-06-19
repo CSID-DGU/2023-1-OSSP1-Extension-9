@@ -30,6 +30,12 @@ Colab, Jupyter Notebook
 Python
 
 ## 활용 데이터 셋
+기존
+혐오성, 성차별 문장 데이터셋 : <https://github.com/kocohub/korean-hate-speech>
+일베 문장 데이터셋 : <https://github.com/2runo/Curse-detection-data>
+
+추가
+<https://github.com/smilegate-ai/korean_unsmile_dataset>
 
 ## 참고 프로젝트
 기존
@@ -41,33 +47,15 @@ Simcse - Supervised
 Simcse - Unsupervised
 <https://github.com/bhuvanakundumani/SimCSE_unsupervised>
 
-
 ## Getting Started
-**click `Use this template` and use this template!**
-<!--
-### Depencies
- Write about need to install the software and how to install them 
--->
-### Installing
-<!-- A step by step series of examples that tell you how to get a development 
-env running
-Say what the step will be
-    Give the example
-And repeat
-    until finished
--->
-1. Click `Use this template` button 
-2. Create New Repository
-3. Update Readme and Others(Other features are noted in comments.)
-<!--
-## Deployment
- Add additional notes about how to deploy this on a live system
- -->
+1.참고 프로젝트의 Simcse코드를 사용해 KoBert모델을 사전학습
+2.`UnSup_KoBERT_V1`등의 폴더의 코드를 사용해 전이학습
+3.`OpenMax`폴더에서 해당 모델에 맞는 코드를 사용해 Fit and Calculate
 
-<!--
-## Used or Referenced Projects
- - [referenced Project](project link) - **LICENSE** - little-bit introduce
--->
+
+## 차후 계획
+Adversarial Training 적용
+
 
 ## License
 
