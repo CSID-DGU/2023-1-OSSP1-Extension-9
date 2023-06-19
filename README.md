@@ -17,18 +17,16 @@
 ## 빠른 링크
 
   - [개요](#개요)
-  - [Getting Started](#getting-started)
-  - [Model List](#model-list)
-  - [Use SimCSE with Huggingface](#use-simcse-with-huggingface)
-  - [Train SimCSE](#train-simcse)
-    - [Requirements](#requirements)
-    - [Evaluation](#evaluation)
-    - [Training](#training)
-  - [Bugs or Questions?](#bugs-or-questions)
-  - [Citation](#citation)
-  - [SimCSE Elsewhere](#simcse-elsewhere)
-
-
+  - [설명](#설명)
+    - [Simecse](#Simecse)
+    - [BackGround Method](#BackGround-Method)
+  - [요구사항](#요구사항)
+  - [환경 및 언어](#환경-및-언어)
+  - [활용 데이터 셋](#활용-데이터-셋)
+  - [참고 프로젝트](#참고-프로젝트)
+  - [모델 학습 시작하기](#모델-학습-시작하기)
+  - [모델 성능](#모델-성능)
+  - [차후 계획](#차후-계획)
 
 ## 개요
 - 학습 데이터 셋 추가 및 데이터 라벨링 개선
