@@ -13,13 +13,13 @@
 |황유경|2020111403|경영학과||
 |민준영|2019113290|컴퓨터공학과||
 
-## Overview
+## 개요
 - 학습 데이터 셋 추가 및 데이터 라벨링 개선
 - 지도학습 → 자기지도학습(Contrastive Learning) 적용
 - 모델 변경(1D CNN → BERT)
 - OSR 방법론 변경 (OpenMax → Background Method 적용)
 
-## Description
+## 설명
 Simcse 및 BackGround Method 적용을 통한 혐오발언 분류 모델의 성능개선
 
 ## Requirement
@@ -65,7 +65,7 @@ Simcse - Unsupervised
 
 
 
-## License
+## 라이센스
 
 ```
 MIT License
