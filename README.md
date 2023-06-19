@@ -19,6 +19,17 @@
 - 모델 변경(1D CNN → BERT)
 - OSR 방법론 변경 (OpenMax → Background Method 적용)
 
+## Requirement
+PyTorch, Tensorflow, Transformers, sklearn, sentencepiece
+
+## 환경 및 언어
+Colab, Jupyter Notebook
+Python
+
+## 활용 데이터 셋
+
+## 
+
 ## Getting Started
 **click `Use this template` and use this template!**
 <!--
