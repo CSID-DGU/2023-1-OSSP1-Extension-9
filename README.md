@@ -23,7 +23,11 @@
 Simcse 및 BackGround Method 적용을 통한 혐오발언 분류 모델의 성능개선
 
 ## Requirement
-PyTorch, Tensorflow, Transformers, sklearn, sentencepiece
+* PyTorch
+* Tensorflow
+* Transformers
+* sklearn
+* sentencepiece
 
 ## 환경 및 언어
 Colab, Jupyter Notebook
@@ -35,7 +39,7 @@ Python
 
 일베 문장 데이터셋 : <https://github.com/2runo/Curse-detection-data>
 
-추가
+추가 데이터셋
 <https://github.com/smilegate-ai/korean_unsmile_dataset>
 
 ## 참고 프로젝트
@@ -49,15 +53,16 @@ Simcse - Unsupervised
 <https://github.com/bhuvanakundumani/SimCSE_unsupervised>
 
 ## Getting Started
-1.참고 프로젝트의 Simcse코드를 사용해 KoBert모델을 사전학습
+1.참고 프로젝트의 Simcse코드를 사용해 KoBert모델을 사전학습하여 모델을 획득
 
-2.`UnSup_KoBERT_V1`등의 폴더의 코드를 사용해 전이학습
+2.사전학습이 완료된 모델에 `UnSup_KoBERT_V1`등의 폴더의 코드를 사용해 전이학습하여 분류 모델을 획득
 
-3.`OpenMax`폴더에서 해당 모델에 맞는 코드를 사용해 Fit and Calculate
+3.`OpenMax`폴더에서 분류 모델에 맞는 코드를 사용해 Fit과정 진행 후 Predict를 사용해 문장 분류
 
 
 ## 차후 계획
-Adversarial Training 적용
+인터넷 용어에 맞는 Adversarial Sample 생성 후 Adversarial Training 적용을 통해 모델의 보안성 향상
+
 
 
 ## License
