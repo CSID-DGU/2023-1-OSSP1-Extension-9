@@ -46,6 +46,8 @@ Supervised SimCSE는 NLI 데이터 세트의 주석이 달린 쌍을 대조 학�
 ![image](https://github.com/CSID-DGU/2023-1-OSSP1-Extension-9/assets/22547157/d322d154-ae7b-420c-9c9f-35d35752b72d)
 
 ### BackGround Method
+-~_~_~_~_~_~_~_~__
+
 
 
 ## 요구사항
