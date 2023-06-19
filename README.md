@@ -31,7 +31,13 @@ Python
 
 ## 활용 데이터 셋
 
-## 
+## 참고 프로젝트
+기존
+<https://github.com/CSID-DGU/2021-1-OSSP1-FloweryPath-8>
+Simcse - Supervised
+<https://github.com/BM-K/KoSimCSE-SKT>
+Simcse - Unsupervised
+<https://github.com/bhuvanakundumani/SimCSE_unsupervised>
 
 ## Getting Started
 **click `Use this template` and use this template!**
