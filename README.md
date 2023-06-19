@@ -65,7 +65,7 @@ Simcse - Unsupervised
 
 
 
-## 라이센스
+## 라이선스
 
 ```
 MIT License
