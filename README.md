@@ -30,8 +30,9 @@ Simcse 및 BackGround Method 적용을 통한 혐오발언 분류 모델의 성�
 * sentencepiece
 
 ## 환경 및 언어
-Colab, Jupyter Notebook
-Python
+* Colab
+* Jupyter Notebook
+* Python
 
 ## 활용 데이터 셋
 기존
