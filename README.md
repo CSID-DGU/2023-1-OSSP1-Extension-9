@@ -34,10 +34,13 @@ Python
 ## 참고 프로젝트
 기존
 <https://github.com/CSID-DGU/2021-1-OSSP1-FloweryPath-8>
+
 Simcse - Supervised
 <https://github.com/BM-K/KoSimCSE-SKT>
+
 Simcse - Unsupervised
 <https://github.com/bhuvanakundumani/SimCSE_unsupervised>
+
 
 ## Getting Started
 **click `Use this template` and use this template!**
@@ -60,17 +63,7 @@ And repeat
 ## Deployment
  Add additional notes about how to deploy this on a live system
  -->
-## Contributing
-<!-- Write the way to contribute -->
-I am looking for someone to help with this project. Please advise and point out.  
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
 
-## Authors
-  - [Always0ne](https://github.com/Always0ne) - **SangIl Hwang** - <si8363@soongsil.ac.kr>
-
-See also the list of [contributors](https://github.com/always0ne/readmeTemplate/contributors)
-who participated in this project.
 <!--
 ## Used or Referenced Projects
  - [referenced Project](project link) - **LICENSE** - little-bit introduce
