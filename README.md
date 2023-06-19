@@ -23,9 +23,15 @@
 Simcse 및 BackGround Method 적용을 통한 혐오발언 분류 모델의 성능개선이 목적이다
 ### Simecse
 Unsupervised SimCSE는 입력 문장을 받아 대조 학습 프레임워크에서 표준 드롭아웃만 노이즈로 사용하여 스스로 예측한다
+
 Supervised SimCSE는 NLI 데이터 세트의 주석이 달린 쌍을 대조 학습에 통합하여 한 쌍을 긍정으로, 한 쌍을 부정으로 사용한다
+
 다음 그림은 이 모델을 보여주는 그림이다
+
 ![image](https://github.com/CSID-DGU/2023-1-OSSP1-Extension-9/assets/22547157/d322d154-ae7b-420c-9c9f-35d35752b72d)
+
+### BackGround Method
+
 
 ## 요구사항
 * PyTorch
