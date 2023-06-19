@@ -75,13 +75,20 @@ korean_unsmile_dataset 데이터셋 : <https://github.com/smilegate-ai/korean_un
 
 ## 참고 프로젝트
 기존
+
 <https://github.com/CSID-DGU/2021-1-OSSP1-FloweryPath-8>
 
 Simcse - Supervised
+
 <https://github.com/BM-K/KoSimCSE-SKT>
 
 Simcse - Unsupervised
+
 <https://github.com/bhuvanakundumani/SimCSE_unsupervised>
+
+BackGround Method
+
+<https://github.com/Vastlab/Reducing-Network-Agnostophobia>
 
 ## 모델 학습 시작하기
 1.참고 프로젝트의 Simcse코드를 사용해 KoBert모델을 사전학습하여 모델을 획득
