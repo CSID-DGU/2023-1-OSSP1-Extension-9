@@ -1,27 +1,23 @@
-# [공개SW프로젝트] 혐오발언 탐지 및 분류 언어모델 개발
-## Index
-  - [Overview](#overview) 
-  - [Getting Started](#getting-started)
-  - [Contributing](#contributing)
-  - [Authors](#authors)
-  - [License](#license)
-<!--  Other options to write Readme
-  - [Deployment](#deployment)
-  - [Used or Referenced Projects](Used-or-Referenced-Projects)
--->
-## About RepositoryTemplate
+<div><img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=auto&height=300&section=header&text=Extension&fontSize=90" /></div>
+
+## 프로젝트 소개
 <!--Wirte one paragraph of project description -->  
-This project's purpose is to create a make Repository with a collection of default settings  
+### 혐오발언 인지 언어모델 개선 프로젝트
+
+## 👋 팀원 소개
+|이름|학번|학과|
+|------|---|---|
+|이상돈|2019112491|산업시스템공학과
+|김건형|2018112016|컴퓨터공학과|
+|이종혁|2019112035|컴퓨터공학과|
+|황유경|2020111403|경영학과|
+|민준영|2019113290|컴퓨터공학과|
 
 ## Overview
-<!-- Write Overview about this project -->
-**If you use this template, you can use this function**
-- Issue Template
-- Pull Request Template
-- Commit Template
-- Readme Template
-- Contribute Template
-- Pull Request Build Test(With Github Actions)
+- 학습 데이터 셋 추가 및 데이터 라벨링 개선
+- 지도학습 → 자기지도학습(Contrastive Learning) 적용
+- 모델 변경(1D CNN → BERT)
+- OSR 방법론 변경 (OpenMax → Background Method 적용)
 
 ## Getting Started
 **click `Use this template` and use this template!**
