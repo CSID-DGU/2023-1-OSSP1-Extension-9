@@ -10,8 +10,8 @@
 |이상돈|2019112491|산업시스템공학과|<https://github.com/leeideal>|
 |김건형|2018112016|컴퓨터공학과|<https://github.com/devCharlieP>|
 |이종혁|2019112035|컴퓨터공학과|<https://github.com/purple8cloud>|
-|황유경|2020111403|경영학과||
-|민준영|2019113290|컴퓨터공학과||
+|황유경|2020111403|경영학과|<https://github.com/yookyung0825>|
+|민준영|2019113290|컴퓨터공학과|<https://github.com/Junyoung190198>|
 
 
 ## 빠른 링크
