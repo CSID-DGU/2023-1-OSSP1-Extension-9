@@ -22,7 +22,7 @@
 ## 설명
 Simcse 및 BackGround Method 적용을 통한 혐오발언 분류 모델의 성능개선
 
-## Requirement
+## 요구사항
 * PyTorch
 * Tensorflow
 * Transformers
