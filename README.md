@@ -55,9 +55,10 @@ Simcse - Unsupervised
 
 ## 모델 학습 시작하기
 1.참고 프로젝트의 Simcse코드를 사용해 KoBert모델을 사전학습하여 모델을 획득
+  사용방법은 해당 페이지에 기록되어 있으므로 여기서 사용방법을 설명하지는 않겠다
 
 2.사전학습이 완료된 모델에 `UnSup_KoBERT_V1`등의 폴더의 코드를 사용해 전이학습하여 분류 모델을 획득
-
+  
 3.`OpenMax`폴더에서 분류 모델에 맞는 코드를 사용해 Fit과정 진행 후 Predict를 사용해 문장 분류
 
 ## [모델 성능](https://github.com/CSID-DGU/2023-1-OSSP1-Extension-9/blob/main/new_model/README.md)
