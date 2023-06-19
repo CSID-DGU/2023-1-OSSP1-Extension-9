@@ -52,7 +52,7 @@ Simcse - Supervised
 Simcse - Unsupervised
 <https://github.com/bhuvanakundumani/SimCSE_unsupervised>
 
-## Getting Started
+## 모델 학습 시작하기
 1.참고 프로젝트의 Simcse코드를 사용해 KoBert모델을 사전학습하여 모델을 획득
 
 2.사전학습이 완료된 모델에 `UnSup_KoBERT_V1`등의 폴더의 코드를 사용해 전이학습하여 분류 모델을 획득
