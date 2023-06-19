@@ -64,11 +64,13 @@ Supervised SimCSE는 NLI 데이터 세트의 주석이 달린 쌍을 대조 학�
 
 ## 활용 데이터 셋
 기존
+
 korean-hate-speech 데이터셋 : <https://github.com/kocohub/korean-hate-speech>
 
 Curse-detection-data 데이터셋 : <https://github.com/2runo/Curse-detection-data>
 
 추가
+
 korean_unsmile_dataset 데이터셋 : <https://github.com/smilegate-ai/korean_unsmile_dataset>
 
 ## 참고 프로젝트
